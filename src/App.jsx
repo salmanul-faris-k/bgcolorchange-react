@@ -6,6 +6,7 @@ function App() {
  const [bg,setbackground]=useState('black')
   const red=()=>{
     setbackground('red')
+    
   }
   const yellow=()=>{
     setbackground('yellow')
